@@ -1,2 +1,2 @@
 # Aetna
-A personal code copilot with cool modules name
+Um assistente de codificação base langchain

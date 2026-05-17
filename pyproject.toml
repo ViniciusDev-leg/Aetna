@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "aetna"
+version = "0.1.0"
+description = "Um assistente de codificação base langchain."
+authors = "ViniciusDev-leg"
+readme = "README.md"
+packages = [{ include = "aetna", from = "src" }]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
